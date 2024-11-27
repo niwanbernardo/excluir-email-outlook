@@ -28,7 +28,7 @@
 <h2>🎮 Como utilizar:</h2>
 <ol>
   <li>Baixe o repositório ou clone-o localmente usando: 
-    <code>git clone https://github.com/niwanbernardo/exclusao-emails-outlook.git</code>.
+    <code>git clone https://github.com/niwanbernardo/excluir-email-outlook.git</code>.
   </li>
   <li>Certifique-se de que o aplicativo Microsoft Outlook (versão de desktop) esteja aberto.</li>
   <li>Instale as bibliotecas necessárias executando:
